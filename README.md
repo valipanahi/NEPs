@@ -1,4 +1,4 @@
-# NEAR Protocol Specifications and Standards
+bc1d34af55e0c2d3c080c737c1c991ccf72c8b0b# NEAR Protocol Specifications and Standards
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://near.zulipchat.com/#narrow/stream/320497-nep-standards)
 [![CI](https://github.com/near/NEPs/actions/workflows/build.yml/badge.svg)](https://github.com/near/NEPs/actions/workflows/build.yml)
